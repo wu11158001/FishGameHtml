@@ -3,6 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <!-- firestore database -->
+    <script src="https://www.gstatic.com/firebasejs/12.7.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/12.7.0/firebase-analytics.js"></script>
+
+    <!-- 外部腳本引用 -->
+    <script src="JS/Firebase.js"></script>
+
     <title>Unity Web Player | Fish Game</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
@@ -110,6 +118,7 @@
         createUnityInstance(canvas, config, (progress) => {
           document.querySelector("#unity-progress-bar-full").style.width = 100 * progress + "%";
         }).then((unityInstance) => {
+          window.unityInstance = unityInstance;
           document.querySelector("#unity-loading-bar").style.display = "none";
           // 全螢幕按鈕相關邏輯已移除，避免報錯
         }).catch((message) => {
