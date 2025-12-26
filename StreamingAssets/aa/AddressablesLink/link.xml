@@ -1,6 +1,10 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Loading" preserve="all" />
+    <type fullname="LobbyView" preserve="all" />
     <type fullname="LoginView" preserve="all" />
+    <type fullname="Spinner" preserve="all" />
+    <type fullname="Toast" preserve="all" />
   </assembly>
   <assembly fullname="MPUIKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="MPUIKIT.MPImage" preserve="all" />
@@ -87,6 +91,7 @@
     <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
