@@ -1,5 +1,3 @@
-// Firebase.js
-
 // Firebase 配置
 const firebaseConfig = {
     apiKey: "AIzaSyCylA3UjWVJ7fgRNPzdCHb-uaNApDDA7U4",
