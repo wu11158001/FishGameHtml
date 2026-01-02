@@ -4,8 +4,10 @@
     <type fullname="Loading" preserve="all" />
     <type fullname="LobbyView" preserve="all" />
     <type fullname="LoginView" preserve="all" />
+    <type fullname="MainWayPoint" preserve="all" />
     <type fullname="Spinner" preserve="all" />
     <type fullname="Toast" preserve="all" />
+    <type fullname="WayPoint" preserve="all" />
   </assembly>
   <assembly fullname="MPUIKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="MPUIKIT.MPImage" preserve="all" />
@@ -68,6 +70,7 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
