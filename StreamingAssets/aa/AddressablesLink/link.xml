@@ -5,6 +5,7 @@
     <type fullname="LobbyView" preserve="all" />
     <type fullname="LoginView" preserve="all" />
     <type fullname="MainWayPoint" preserve="all" />
+    <type fullname="RecordUnit" preserve="all" />
     <type fullname="Spinner" preserve="all" />
     <type fullname="Toast" preserve="all" />
     <type fullname="WayPoint" preserve="all" />
