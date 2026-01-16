@@ -9,18 +9,20 @@
     <type fullname="GameFloatBtn" preserve="all" />
     <type fullname="GameView" preserve="all" />
     <type fullname="GetItemView" preserve="all" />
+    <type fullname="GuideUnit" preserve="all" />
+    <type fullname="GuideView" preserve="all" />
     <type fullname="ImageGradients" preserve="all" />
     <type fullname="LobbyView" preserve="all" />
     <type fullname="LocalPool" preserve="all" />
     <type fullname="LoginView" preserve="all" />
     <type fullname="RecordUnit" preserve="all" />
     <type fullname="ScrollViewTool" preserve="all" />
-    <type fullname="Spinner" preserve="all" />
     <type fullname="ToastView" preserve="all" />
     <type fullname="TurretStoreUnit" preserve="all" />
     <type fullname="TurretStoreView" preserve="all" />
     <type fullname="WayPoint" preserve="all" />
     <type fullname="WayPointMain" preserve="all" />
+    <type fullname="GuideView/NetworkPrefabEntry" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="MPUIKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="MPUIKIT.MPImage" preserve="all" />
@@ -109,12 +111,10 @@
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
     <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Font" preserve="all" />
-  </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
@@ -145,8 +145,5 @@
     <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
   </assembly>
 </linker>
