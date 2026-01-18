@@ -13,15 +13,12 @@
     <type fullname="GuideView" preserve="all" />
     <type fullname="ImageGradients" preserve="all" />
     <type fullname="LobbyView" preserve="all" />
-    <type fullname="LocalPool" preserve="all" />
     <type fullname="LoginView" preserve="all" />
     <type fullname="RecordUnit" preserve="all" />
     <type fullname="ScrollViewTool" preserve="all" />
     <type fullname="ToastView" preserve="all" />
     <type fullname="TurretStoreUnit" preserve="all" />
     <type fullname="TurretStoreView" preserve="all" />
-    <type fullname="WayPoint" preserve="all" />
-    <type fullname="WayPointMain" preserve="all" />
     <type fullname="GuideView/NetworkPrefabEntry" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="MPUIKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
