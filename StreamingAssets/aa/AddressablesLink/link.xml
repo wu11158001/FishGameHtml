@@ -16,6 +16,8 @@
     <type fullname="LoginView" preserve="all" />
     <type fullname="RecordUnit" preserve="all" />
     <type fullname="ScrollViewTool" preserve="all" />
+    <type fullname="SpecialFishCatchView" preserve="all" />
+    <type fullname="Spinner" preserve="all" />
     <type fullname="ToastView" preserve="all" />
     <type fullname="TurretStoreUnit" preserve="all" />
     <type fullname="TurretStoreView" preserve="all" />
@@ -43,6 +45,7 @@
     <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
     <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
