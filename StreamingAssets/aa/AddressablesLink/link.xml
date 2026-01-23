@@ -4,6 +4,7 @@
     <type fullname="CoinStoreView" preserve="all" />
     <type fullname="CoinText" preserve="all" />
     <type fullname="ConfirmView" preserve="all" />
+    <type fullname="DragonFullOdds" preserve="all" />
     <type fullname="EruptionAndRecycleEffect" preserve="all" />
     <type fullname="EventSystemsHandler" preserve="all" />
     <type fullname="GameFloatBtn" preserve="all" />
@@ -16,12 +17,14 @@
     <type fullname="LoginView" preserve="all" />
     <type fullname="RecordUnit" preserve="all" />
     <type fullname="ScrollViewTool" preserve="all" />
+    <type fullname="SeaKing" preserve="all" />
     <type fullname="SpecialFishCatchView" preserve="all" />
     <type fullname="Spinner" preserve="all" />
     <type fullname="SpinWheel" preserve="all" />
     <type fullname="ToastView" preserve="all" />
     <type fullname="TurretStoreUnit" preserve="all" />
     <type fullname="TurretStoreView" preserve="all" />
+    <type fullname="WaterFullHitEffect" preserve="all" />
   </assembly>
   <assembly fullname="MPUIKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="MPUIKIT.MPImage" preserve="all" />
@@ -98,6 +101,7 @@
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
