@@ -15,8 +15,10 @@
     <type fullname="ImageGradients" preserve="all" />
     <type fullname="LobbyPopupController" preserve="all" />
     <type fullname="LobbyView" preserve="all" />
+    <type fullname="LoginRewardView" preserve="all" />
     <type fullname="LoginView" preserve="all" />
     <type fullname="RecordUnit" preserve="all" />
+    <type fullname="RegisterRewardView" preserve="all" />
     <type fullname="ScrollViewTool" preserve="all" />
     <type fullname="SeaKing" preserve="all" />
     <type fullname="SpecialFishCatchView" preserve="all" />
