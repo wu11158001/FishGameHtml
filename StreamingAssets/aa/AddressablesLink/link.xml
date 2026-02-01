@@ -21,6 +21,7 @@
     <type fullname="ImageGradients" preserve="all" />
     <type fullname="LevelUnit" preserve="all" />
     <type fullname="LevelView" preserve="all" />
+    <type fullname="LobbyPopupController" preserve="all" />
     <type fullname="LobbyView" preserve="all" />
     <type fullname="LocalPool" preserve="all" />
     <type fullname="LoginRewardView" preserve="all" />
