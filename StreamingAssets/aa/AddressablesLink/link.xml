@@ -16,7 +16,8 @@
     <type fullname="GameTempData" preserve="all" />
     <type fullname="GameView" preserve="all" />
     <type fullname="GetItemView" preserve="all" />
-    <type fullname="GuideUnit" preserve="all" />
+    <type fullname="GuideNormalUnit" preserve="all" />
+    <type fullname="GuideSpecialUnit" preserve="all" />
     <type fullname="GuideView" preserve="all" />
     <type fullname="ImageGradients" preserve="all" />
     <type fullname="LevelUnit" preserve="all" />
