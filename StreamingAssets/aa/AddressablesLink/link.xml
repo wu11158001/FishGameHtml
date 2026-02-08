@@ -10,6 +10,7 @@
     <type fullname="EditNicknameView" preserve="all" />
     <type fullname="EruptionAndRecycleEffect" preserve="all" />
     <type fullname="EventSystemsHandler" preserve="all" />
+    <type fullname="FishManager" preserve="all" />
     <type fullname="GameEntry" preserve="all" />
     <type fullname="GameFloatBtn" preserve="all" />
     <type fullname="GamePropsBtnUnit" preserve="all" />
@@ -37,6 +38,8 @@
     <type fullname="SevenDayUnit" preserve="all" />
     <type fullname="SevenDayView" preserve="all" />
     <type fullname="ShopView" preserve="all" />
+    <type fullname="Skill_CrystalsCrossfade" preserve="all" />
+    <type fullname="Skill_MeteorRain" preserve="all" />
     <type fullname="SpecialFishCatchView" preserve="all" />
     <type fullname="Spinner" preserve="all" />
     <type fullname="SpinWheel" preserve="all" />
